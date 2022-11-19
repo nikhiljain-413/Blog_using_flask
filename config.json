@@ -1,0 +1,24 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/codingthunder",
+    "prod_uri":"mysql://root:@localhost/codingthunder",
+    "fb_url":"https://facebook.com/codingthunder",
+    "tw_url":"https://twitter.com/codingthunder",
+    "gh_url": "https://github.com/codingthunder",
+    "blog_name": "Nikhil's Bolg",
+    "tag_line": "Heaven for programmers",
+    "gmail-user":"your-email@gmail.com",
+    "gmail-password":"gmailpassword",
+    "about_text": "My name in Nikhil Jain. I am from Jabalpur, Madhya Pradesh. Currently I am pursuing by bachelors in computer science and engineering from Jabalpur Engineering College, Jabalpur with an aggregate cgpa of 8.59. I have consistently performed well in my academics and have secured 89.4% in 12th and 9.8 cgpa in 10th. As in todays world computer science is everywhere so i decided to invest my 3-4 years of my collage time in building my technical skills. My technical skills includes problem solving, and likes to do programming in various languages like c, c++, java, python. Have good knowledge of Data Structures and Algorithms. Active on various online competitive programming platforms such as Codeforces, CodeChef and Leetcode and have solved 1000+ DSA problems.I am also familiar with web development which includes HTML, CSS, JavaScript. besides that I am also familiar with Machine Learning, databases and SQL Queries.",
+    "no_of_posts": 3,
+    "login_image":"login.svg",
+    "admin_user":"nikhil",
+    "admin_password": "nikhil",
+    "upload_location":"D:\\c,c++,java,python,javascript\\harry flask\\Python-Flask-Blog\\static"
+
+
+  }
+
+}
